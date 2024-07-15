@@ -41,21 +41,6 @@ This website supports user related things via Django + MySQL. Users can save the
 
 Distributed under the MIT License.
 
-## Contributing
-
-1. Fork this project.
-2. Create your own branch and make your features.
-3. Push to that branch and open a pull request.
-
-## Contact
-
-E-mail : jinsub1999@khu.ac.kr
-
-## TODO
-
-- [x] Add filter on ProductList.
-- [ ] Add some feature in productDetail (ex. Review)
-
 [1]: https://www.docker.com/get-started
 [2]: https://yarnpkg.com/getting-started/install
 [3]: https://getbootstrap.com/docs/5.1/getting-started/introduction/
